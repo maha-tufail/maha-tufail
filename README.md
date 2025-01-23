@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there 👋I am Maha
+
+* 🔭 I’m currently working on adverserial robustness of audio language models.
+* 🌱 I'm currently learning parallel computing in python.
+* 📫 How to reach me: Send me an email at **mahaagro48** AT **outlook** DOT **com**
 
 <!--
 **maha-tufail/maha-tufail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
